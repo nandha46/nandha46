@@ -40,7 +40,7 @@
       <br>Azure
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#">
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
@@ -153,7 +153,7 @@
       <br>Tensorflow
     </td>
     <td align="center" width="96">
-      <a href="#suhailakar-tech">
+      <a href="#">
         <img src="https://media.zeemly.com/zeemly/product/material-ui.png" width="48" height="48" alt="Material UI" />
       </a>
       <br>Material ui
