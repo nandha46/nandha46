@@ -29,21 +29,21 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="48" height="48" alt="Django" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/Spring_Framework_Logo_2018.svg" width="48" height="48" alt="Spring" />
       </a>
-      <br>Django
+      <br>Spring
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://i.ibb.co/jDGr3z0/azure-removebg-preview.png" width="48" height="48" alt="Azure" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/Hibernate_logo_a.png" width="48" height="48" alt="Hibernate" />
       </a>
-      <br>Azure
+      <br>Hibernate
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="48" height="48" alt="TypeScript" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/MySQL_logo.svg" width="48" height="48" alt="MySQL" />
       </a>
-      <br>TypeScript
+      <br>MySQL
     </td>
     <td align="center" width="96">
       <a href="#">
