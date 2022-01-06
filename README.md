@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg" width="48" height="48" alt="Java" />
+        <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
