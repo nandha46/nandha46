@@ -23,9 +23,9 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png" width="48" height="48" alt="Python" />
+        <img src="https://en.wikipedia.org/wiki/File:Java_programming_language_logo.svg" width="48" height="48" alt="Java" />
       </a>
-      <br>Python
+      <br>Java
     </td>
     <td align="center" width="96">
       <a href="#">
