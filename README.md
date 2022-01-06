@@ -27,7 +27,7 @@
       </a>
       <br>JavaScript
     </td>
-    <td align="center" width="192">
+    <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/nandha46/nandha46/blob/main/logo/Spring_Framework_Logo_2018.svg" width="48" height="48" alt="Spring" />
       </a>
