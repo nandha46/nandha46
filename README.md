@@ -3,10 +3,10 @@
 
 - 👋 Hi, I'm @nandha46
 - 🔭 I’m currently working on Trident's Software
-- 🌱 I’m currently learning Spring Framework
+- 🌱 Interested in Spring Framework
 - 👯 I’m looking to collaborate on Java Projects
 - 💬 Ask me about ...
-- 📫 How to reach me: .nandha.kumar790@gmail.com
+- 📫 How to reach me: nandha.kumar790@gmail.com
 
 <h2 align="left" id="">Technology Stack</h2>
 
@@ -23,7 +23,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://1000logos.net/wp-content/uploads/2020/09/Java-Logo-500x313.png" width="48" height="48" alt="Java" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/Java_programming_language_logo.svg" width="48" height="48" alt="Java" />
       </a>
       <br>Java
     </td>
