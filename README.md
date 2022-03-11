@@ -35,7 +35,7 @@
     </td>
     <td align="center" width="96">
       <a href="#">
-        <img src="https://github.com/nandha46/nandha46/blob/main/logo/Hibernate_logo_a.png" width="48" height="48" alt="Hibernate" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/hibernate_icon_whitebkg.svg" width="48" height="48" alt="Hibernate" />
       </a>
       <br>Hibernate
     </td>
@@ -68,9 +68,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://i.ibb.co/LzmYpDX/146-1466902-php-logo-png-transparent-php-logo-png-png-removebg-preview.png" width="48" height="48" alt="PHP" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/jquery.png" width="48" height="48" alt="PHP" />
       </a>
-      <br>PHP
+      <br>JQuery
     </td>
   </tr>
 </table>
