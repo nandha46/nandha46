@@ -68,9 +68,27 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://github.com/nandha46/nandha46/blob/main/logo/jquery.png" width="48" height="48" alt="PHP" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/jquery.png" width="48" height="48" alt="JQuery" />
       </a>
       <br>JQuery
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/docker.png" width="48" height="48" alt="Docker" />
+      </a>
+      <br>Docker
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/hibernate_icon_whitebkg.svg" width="48" height="48" alt="Kubernetes" />
+      </a>
+      <br>Kubernetes
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/aws.png" width="48" height="48" alt="AWS" />
+      </a>
+      <br>AWS
     </td>
   </tr>
 </table>
