@@ -2,10 +2,9 @@
 
 
 - 👋 Hi, I'm @nandha46
-- 🔭 I’m currently working on Trident's Software
+- 🔭 I’m currently working in Trident's Software
 - 🌱 Interested in Spring Framework
 - 👯 I’m looking to collaborate on Java Projects
-- 💬 Ask me about ...
 - 📫 How to reach me: nandha.kumar790@gmail.com
 
 <h2 align="left" id="">Technology Stack</h2>
