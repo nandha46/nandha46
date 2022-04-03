@@ -85,7 +85,7 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://github.com/nandha46/nandha46/blob/main/logo/hibernate_icon_whitebkg.svg" width="48" height="48" alt="Kubernetes" />
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/Kubernetes-Logo.wine.svg" width="48" height="48" alt="Kubernetes" />
       </a>
       <br>Kubernetes
     </td>
