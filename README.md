@@ -50,6 +50,12 @@
       </a>
       <br>Bootstrap
     </td>
+     <td align="center" width="96">
+      <a href="#">
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/eclipse.webp" width="48" height="48" alt="Eclipse" />
+      </a>
+      <br>Eclipse
+    </td>
   </tr>
   
   <tr>
@@ -88,6 +94,20 @@
         <img src="https://github.com/nandha46/nandha46/blob/main/logo/aws.png" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/maven-logo-black-on-white.webp" width="48" height="48" alt="Maven" />
+      </a>
+      <br>Maven
+    </td>
+  </tr>
+  <tr>
+  <td align="center" width="96">
+      <a href="#" >
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/powershell.webp" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
     </td>
   </tr>
 </table>
