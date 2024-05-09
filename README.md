@@ -1,8 +1,7 @@
-### Hi there 👋
 
 ![Header](./github-header-nandha.png)
 
-- 📫 How to reach me: nandha.kumar790@gmail.com
+- 📫 reach me at => nandha.kumar790@gmail.com
 
 <h2 align="left" id="">Technology Stack</h2>
 
