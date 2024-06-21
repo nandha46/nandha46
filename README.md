@@ -38,6 +38,18 @@
       </a>
       <br>JQuery
     </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./logo/html-5-svgrepo-com.png" width="48" height="48" alt="HTML" />
+      </a>
+      <br>HTML
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./logo/css3-svgrepo-com.png" width="48" height="48" alt="CSS" />
+      </a>
+      <br>CSS
+    </td>
   </tr>
   <tr>
     <td align="center" width="96">
@@ -65,32 +77,6 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="./logo/powershell.webp" width="48" height="48" alt="Powershell" />
-      </a>
-      <br>Powershell
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./logo/Java_programming_language_logo.svg" width="48" height="48" alt="Java" />
-      </a>
-      <br>Java
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
-      <a href="#">
-        <img src="./logo/html-5-svgrepo-com.png" width="48" height="48" alt="HTML" />
-      </a>
-      <br>HTML
-    </td>
-    <td align="center" width="96">
-      <a href="#">
-        <img src="./logo/css3-svgrepo-com.png" width="48" height="48" alt="CSS" />
-      </a>
-      <br>CSS
-    </td>
-    <td align="center" width="96">
       <a href="#">
         <img src="./logo/redis-logo-svgrepo-com.png" width="48" height="48" alt="Redis" />
       </a>
@@ -101,6 +87,18 @@
         <img src="./logo/postgresql-logo-svgrepo-com.png" width="48" height="48" alt="Postgres" />
       </a>
       <br>Postgres
+    </td>
+    <td align="center" width="96">
+      <a href="#" >
+        <img src="./logo/powershell.webp" width="48" height="48" alt="Powershell" />
+      </a>
+      <br>Powershell
+    </td>
+    <td align="center" width="96">
+      <a href="#">
+        <img src="./logo/Java_programming_language_logo.svg" width="48" height="48" alt="Java" />
+      </a>
+      <br>Java
     </td>
   </tr>
 </table>
