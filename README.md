@@ -1,7 +1,3 @@
-
-
-- 📫 reach me at => nandha.kumar790@gmail.com
-
 <h2 align="left" id="">Technology Stack</h2>
 
 > Tools, languages, and other things that I like to work with.
@@ -25,13 +21,13 @@
       <a href="#">
         <img src="https://github.com/nandha46/nandha46/blob/main/logo/Spring_Framework_Logo_2018.svg" width="48" height="48" alt="Spring" />
       </a>
-      <br>Spring
+      <br>PHP
     </td>
     <td align="center" width="96">
       <a href="#">
         <img src="https://github.com/nandha46/nandha46/blob/main/logo/hibernate_icon_whitebkg.svg" width="48" height="48" alt="Hibernate" />
       </a>
-      <br>Hibernate
+      <br>Laravel
     </td>
     <td align="center" width="96">
       <a href="#">
@@ -46,10 +42,10 @@
       <br>Bootstrap
     </td>
      <td align="center" width="96">
-      <a href="#">
-        <img src="https://github.com/nandha46/nandha46/blob/main/logo/eclipse.webp" width="48" height="48" alt="Eclipse" />
+      <a href="#" >
+        <img src="https://github.com/nandha46/nandha46/blob/main/logo/jquery.png" width="48" height="48" alt="JQuery" />
       </a>
-      <br>Eclipse
+      <br>JQuery
     </td>
   </tr>
   
@@ -68,21 +64,9 @@
     </td>
     <td align="center" width="96">
       <a href="#" >
-        <img src="https://github.com/nandha46/nandha46/blob/main/logo/jquery.png" width="48" height="48" alt="JQuery" />
-      </a>
-      <br>JQuery
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
         <img src="https://github.com/nandha46/nandha46/blob/main/logo/docker.png" width="48" height="48" alt="Docker" />
       </a>
       <br>Docker
-    </td>
-    <td align="center" width="96">
-      <a href="#" >
-        <img src="https://github.com/nandha46/nandha46/blob/main/logo/Kubernetes-Logo.wine.svg" width="48" height="48" alt="Kubernetes" />
-      </a>
-      <br>Kubernetes
     </td>
     <td align="center" width="96">
       <a href="#" >
@@ -91,14 +75,6 @@
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#" >
-        <img src="https://github.com/nandha46/nandha46/blob/main/logo/maven-logo-black-on-white.webp" width="48" height="48" alt="Maven" />
-      </a>
-      <br>Maven
-    </td>
-  </tr>
-  <tr>
-  <td align="center" width="96">
       <a href="#" >
         <img src="https://github.com/nandha46/nandha46/blob/main/logo/powershell.webp" width="48" height="48" alt="Powershell" />
       </a>
