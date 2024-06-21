@@ -1,5 +1,4 @@
 
-![Header](./github-header-nandha.png)
 
 - 📫 reach me at => nandha.kumar790@gmail.com
 
@@ -107,5 +106,3 @@
     </td>
   </tr>
 </table>
-
-credit: @suhailkakar for the design
