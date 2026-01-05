@@ -1,3 +1,12 @@
+<div align="center">
+
+# Hey There! Welcome to my GitHub Profile.
+
+[![Profile Views](https://komarev.com/ghpvc/?username=nandha46&color=blueviolet&style=flat-square)](https://github.com/nandha46)
+[![GitHub followers](https://img.shields.io/github/followers/nandha46?style=flat-square&color=blue)](https://github.com/nandha46)
+
+</div>
+
 <h2 align="left" id="">Technology Stack</h2>
 
 <table align="center">
@@ -104,3 +113,5 @@
 </table>
 
 ![](https://hit.yhype.me/github/profile?account_id=48977375)
+
+</div>
